@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="serviceDirectoryPath" value="/storage/win10/Gradle" />
+    <option name="serviceDirectoryPath" value="/opt/gradle/gradle-6.9.2" />
   </component>
 </application>
