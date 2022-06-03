@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.30364583333333334" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/banner.xml" value="0.5052083333333334" />
         <entry key="app/src/main/res/drawable/border.xml" value="0.5052083333333334" />
@@ -48,6 +48,9 @@
         <entry key="app_juice/src/main/res/menu/menu_main.xml" value="0.2609375" />
         <entry key="app_juice/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2635416666666667" />
         <entry key="app_juice/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2635416666666667" />
+        <entry key="app_retail/src/main/res/layout/home_fragment.xml" value="0.2520833333333333" />
+        <entry key="app_retail/src/main/res/layout/sku_fragment.xml" value="0.2520833333333333" />
+        <entry key="app_retail/src/main/res/layout/sku_item.xml" value="0.2520833333333333" />
         <entry key="sample/src/main/res/layout/main.xml" value="0.24166666666666667" />
         <entry key="samples/architecture/src/main/res/layout/sku_fragment.xml" value="0.22291666666666668" />
         <entry key="samples/hello/src/main/res/layout/activity_main.xml" value="0.22291666666666668" />
