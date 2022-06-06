@@ -57,7 +57,7 @@
         <entry key="app_retail/src/main/res/layout/activity_main.xml" value="0.22760416666666666" />
         <entry key="app_retail/src/main/res/layout/activity_splash.xml" value="0.2520833333333333" />
         <entry key="app_retail/src/main/res/layout/fragment_advert.xml" value="0.22760416666666666" />
-        <entry key="app_retail/src/main/res/layout/fragment_goods_list.xml" value="0.32971014492753625" />
+        <entry key="app_retail/src/main/res/layout/fragment_goods_list.xml" value="0.5" />
         <entry key="app_retail/src/main/res/layout/goods_item.xml" value="0.22760416666666666" />
         <entry key="app_retail/src/main/res/layout/home_fragment.xml" value="0.32971014492753625" />
         <entry key="app_retail/src/main/res/layout/main_activity.xml" value="0.32971014492753625" />
